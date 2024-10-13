@@ -1,6 +1,6 @@
 [submodule "cores"]
 	path = cores
-	url = git@github.com:stefanhepp/framework-arduinoteensy-cores.git
+	url = https://github.com/stefanhepp/framework-arduinoteensy-cores.git
 [submodule "libraries/MIDI"]
 	path = libraries/MIDI
 	url = https://github.com/FortySevenEffects/arduino_midi_library.git
