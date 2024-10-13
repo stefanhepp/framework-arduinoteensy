@@ -1,3 +1,51 @@
 [submodule "cores"]
 	path = cores
 	url = git@github.com:stefanhepp/framework-arduinoteensy-cores.git
+[submodule "libraries/MIDI"]
+	path = libraries/MIDI
+	url = https://github.com/FortySevenEffects/arduino_midi_library.git
+[submodule "libraries/Audio"]
+	path = libraries/Audio
+	url = https://github.com/PaulStoffregen/Audio
+[submodule "libraries/SoftwareSerial"]
+	path = libraries/SoftwareSerial
+	url = https://github.com/PaulStoffregen/SoftwareSerial
+[submodule "libraries/TimerOne"]
+	path = libraries/TimerOne
+	url = https://github.com/PaulStoffregen/TimerOne
+[submodule "libraries/Time"]
+	path = libraries/Time
+	url = https://github.com/PaulStoffregen/Time
+[submodule "libraries/OneWire"]
+	path = libraries/OneWire
+	url = https://github.com/PaulStoffregen/OneWire
+[submodule "libraries/Wire"]
+	path = libraries/Wire
+	url = https://github.com/PaulStoffregen/Wire
+[submodule "libraries/SdFat"]
+	path = libraries/SdFat
+	url = https://github.com/PaulStoffregen/SdFat
+[submodule "libraries/Encoder"]
+	path = libraries/Encoder
+	url = https://github.com/PaulStoffregen/Encoder
+[submodule "libraries/SPI"]
+	path = libraries/SPI
+	url = https://github.com/PaulStoffregen/SPI
+[submodule "libraries/EEPROM"]
+	path = libraries/EEPROM
+	url = https://github.com/PaulStoffregen/EEPROM
+[submodule "libraries/FastLED"]
+	path = libraries/FastLED
+	url = https://github.com/PaulStoffregen/FastLED
+[submodule "libraries/PWMServo"]
+	path = libraries/PWMServo
+	url = https://github.com/PaulStoffregen/PWMServo
+[submodule "libraries/Ethernet"]
+	path = libraries/Ethernet
+	url = https://github.com/PaulStoffregen/Ethernet
+[submodule "libraries/TinyGPS"]
+	path = libraries/TinyGPS
+	url = https://github.com/PaulStoffregen/TinyGPS
+[submodule "libraries/TimerThree"]
+	path = libraries/TimerThree
+	url = https://github.com/PaulStoffregen/TimerThree
