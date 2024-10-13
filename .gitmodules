@@ -49,3 +49,6 @@
 [submodule "libraries/TimerThree"]
 	path = libraries/TimerThree
 	url = https://github.com/PaulStoffregen/TimerThree
+[submodule "libraries/SD"]
+	path = libraries/SD
+	url = https://github.com/PaulStoffregen/SD
