@@ -52,3 +52,6 @@
 [submodule "libraries/SD"]
 	path = libraries/SD
 	url = https://github.com/PaulStoffregen/SD
+[submodule "libraries/SerialFlash"]
+	path = libraries/SerialFlash
+	url = https://github.com/PaulStoffregen/SerialFlash
